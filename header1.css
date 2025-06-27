@@ -16,21 +16,3 @@
   background-color: #007acc; /* Couleur plus foncée au survol */
   cursor: pointer;
 }
-/* header1.css */
-.header-top {
-  background-color: #1e90ff; /* Bleu dynamique */
-  color: white;              /* Texte blanc */
-  padding: 20px;             /* Espacement interne */
-  text-align: center;        /* Centrer le texte */
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* Police moderne */
-  font-size: 24px;           /* Taille de texte agréable */
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Ombre subtile */
-  border-radius: 8px;        /* Coins arrondis */
-  user-select: none;         /* Empêche la sélection du texte */
-  transition: background-color 0.3s ease;
-}
-
-.header-top:hover {
-  background-color: #007acc; /* Couleur plus foncée au survol */
-  cursor: pointer;
-}
