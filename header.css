@@ -1,0 +1,17 @@
+/* header1.css - Styles du header */
+.header-top {
+  background-color: #1e90ff;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 24px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  user-select: none;
+  transition: background-color 0.3s ease;
+}
+.header-top:hover {
+  background-color: #007acc;
+  cursor: pointer;
+}
